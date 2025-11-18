@@ -1,0 +1,7 @@
+# C build files
+*.o
+*.out
+*.exe
+a.out
+# VSCode settings
+.vscode/
